@@ -48,6 +48,6 @@ Spent more time in brainstroming and aligning the content for better User Experi
 ### [LiveLink](https://ineuron-homepage-vivekn.netlify.app/)
 
  ### QuickLook:
- ![img](./iNeuron%20QuickLook.png)
+ ![img](./quicklook.png)
 
 
