@@ -385,7 +385,7 @@ nav a{
 }
 .hack-head h1{
 
-    background-color: #16171D;
+    background-color: #110d1e;;
     font-size: 36px;
     text-align: center;
     padding: 20px;
@@ -417,8 +417,17 @@ nav a{
 .prod-list>div{
     width: 15vw;
     padding: 10px;
-    background-color: #110d1e;
+    background-color: #110d1edc;
     border-radius: 20px;
+    transition: 300ms ease-in-out;
+}
+.prod-list>div h3{
+    font-family: 'Montserrat';
+}
+
+.prod-list>div:hover{
+    cursor: pointer;
+    background-color: #110d1e;
 }
 .prod-list h3{
     margin-bottom: 20px;
